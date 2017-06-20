@@ -1,6 +1,6 @@
 # routertest1
 
-> 单页面路由
+> 单页面路由，结合mint-ui使用，练习ing
 
 ## Build Setup
 
